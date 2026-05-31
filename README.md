@@ -4,7 +4,7 @@ README.md
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.jpeg)
+![Dashboard](Dashboard1.jpeg)
 
 ## Project Overview
 
